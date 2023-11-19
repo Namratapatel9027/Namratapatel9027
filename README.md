@@ -38,16 +38,4 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=Namratapatel9027&theme=dark" alt="Layout with last medium posts"  />
-</div>
 
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31gqxrf6qlvhvhgsj6db4tkxvvsa">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31gqxrf6qlvhvhgsj6db4tkxvvsa&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-### 
