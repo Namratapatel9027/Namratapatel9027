@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Namrata and I'm a  Full Stack Web Developer 👩‍🎓</h2>
+<h2 align="center">Hi 👋! My name is Namrata and I'm on a way to become Full Stack Web Developer 👩‍🎓</h2>
 
 ###
 <h3 align="center">👩‍💻  About Me</h3>
