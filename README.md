@@ -5,7 +5,7 @@
 
 ###
 
-<p align="center">- 🔭 I’m working as Student<br>- 📚 I'm currently learning Full Stack Java Developer<br>- ⚡ Always eager to learn and explore new technologies, with a current focus on becoming a full-stack Java developer🎯.</p>
+<p align="center">- 🔭 I’m working as Student<br>- 📚 I'm currently learning Full Stack Web Development<br>- ⚡ Always eager to learn and explore new technologies, with a current focus on becoming a Full-stack developer🎯.</p>
 
 ###
 <h3 align="center">🛠 Languages </h3>
