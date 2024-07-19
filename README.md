@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on **Monthly Budget Sheet (Excel Assignment)**
 
+- 🎓 Certified **FullStack Developer**
+
 - 🌱 I’m currently learning **Data Analytics courses from Codebasics**
 
 - 👯 I’m looking to collaborate on **Interactive dashboards and data visualization projects**
@@ -52,11 +54,23 @@
 ###
 <h3 align="center">📫 Connect with Me</h3>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="47" height="35" alt="codepen logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="47" height="35" alt="telegram logo"  />
+  <a href="https://www.linkedin.com/in/namratapatel" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo" />
+  </a>
+   <a href="mailto:namratapatel091@example.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo" />
+  </a>
+    <a href="https://www.instagram.com/namratapatel" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/namratapatel091" target="_blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-hackerrank-3521478-2944922.png?f=webp&w=256" width="40" height="35" alt="Hackerrank logo" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/namratapatel091/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/1920px-GeeksforGeeks.svg.png" width="47" height="35" alt="geeksforgeeks logo" />
+  </a>
+
+  
 </div>
 
 <br>
