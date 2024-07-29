@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Data visualization, dashboard creation, and Full Stack development**
 
-- 📫 How to reach me **namratapatel091@example.com**
+- 📫 How to reach me **namratapatel091@gmail.com**
 
 
   <img height="230" align="right" src="https://github.com/Namratapatel9027/E-Guru-Website/blob/main/portrait-girl-with-backpack-3d-rendering-removebg-preview.png"  />
