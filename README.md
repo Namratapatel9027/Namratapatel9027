@@ -1,5 +1,7 @@
+ 
 <h1 align="center">Hi 👋, I'm Namrata Patel</h1>
 <h3 align="center">A Passionate Data Analyst and FullStack Developer from India</h3>
+<img src="https://github.com/Namratapatel9027/Namratapatel9027/blob/main/data_analyst_2.0.png"  />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namratapatel9027&label=Profile%20views&color=0e75b6&style=flat" alt="namratapatel9027" /> </p>
 
