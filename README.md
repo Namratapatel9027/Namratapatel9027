@@ -56,13 +56,13 @@
 ###
 <h3 align="center">📫 Connect with Me</h3>
 <div align="center">
-  <a href="https://www.linkedin.com/in/namratapatel" target="_blank">
+  <a href="https://www.linkedin.com/in/namratapatel9027/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo" />
   </a>
-   <a href="mailto:namratapatel091@example.com" target="_blank">
+   <a href="mailto:namratapatel091@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo" />
   </a>
-    <a href="https://www.instagram.com/namratapatel" target="_blank">
+    <a href="https://www.instagram.com/kpcodeventure" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo" />
   </a>
   <a href="https://www.hackerrank.com/profile/namratapatel091" target="_blank">
