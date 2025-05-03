@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namratapatel9027&label=Profile%20views&color=0e75b6&style=flat" alt="namratapatel9027" /> </p>
 
+- 📌 I actively contribute to open-source.
+
 - 🔭 I’m currently working on **Data Collection and Cleaning, Data Analysis, Data Visualization, Reporting, Data Integration**
 
 - 🎓 Certified **FullStack Developer**
