@@ -11,7 +11,7 @@
 
 - 🎓 Certified **FullStack Developer**
 
-- 🌱 I’m currently learning **Data Analytics courses from Codebasics**
+- 🌱 I’m currently learning **Data Analytics**
 
 - 👯 I’m looking to collaborate on **Interactive dashboards and data visualization projects**
 
