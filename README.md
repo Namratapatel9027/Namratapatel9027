@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Machine Learning, Computer Vision, Model Training, UI Development for AI, and Deep Learning**
 
-- 📫 How to reach me **your-email@gmail.com**
+- 📫 How to reach me **namratapatel@gmail.com**
 
 - 📌 I actively contribute to **AI/ML open-source projects**
 
@@ -72,22 +72,19 @@
 
 <h3 align="center">📫 Connect with Me</h3>
 <div align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/namratapatel9027/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo" />
   </a>
-   <a href="mailto:your-email@gmail.com" target="_blank">
+   <a href="mailto:namratapatel@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo" />
   </a>
-    <a href="https://your-portfolio-url.com" target="_blank">
+    <a href="https://your-portfolio-url.com](https://codebasics.io/portfolio/Namrata-patel" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/domain.png" width="40" height="35" alt="portfolio logo" />
   </a>
-  <a href="https://www.hackerrank.com/profile/yourusername" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-hackerrank-3521478-2944922.png?f=webp&w=256" width="40" height="35" alt="Hackerrank logo" />
-  </a>
-  <a href="https://leetcode.com/yourusername/" target="_blank">
+  <a href="[https://leetcode.com/yourusername/](https://leetcode.com/u/Khuship9027/)" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="47" height="35" alt="leetcode logo" />
   </a>
-  <a href="https://www.youtube.com/@yourchannel" target="_blank">
+  <a href="https://www.youtube.com/@kpcodeventure" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="47" height="35" alt="youtube logo" />
   </a>
 </div>
@@ -95,9 +92,9 @@
 <br>
 
 <div>
-<p><img height="220" width="500"  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yourusername&show_icons=true&locale=en&layout=compact" alt="yourusername" /></p>
+<p><img height="220" width="500"  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Namratapatel9027&show_icons=true&locale=en&layout=compact" alt="Namratapatel9027" /></p>
 <br>
-<p>&nbsp;<img height="210" align="right" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&locale=en" alt="yourusername" /></p>
+<p>&nbsp;<img height="210" align="right" src="https://github-readme-stats.vercel.app/api?username=Namratapatel9027&show_icons=true&locale=en" alt="Namratapatel" /></p>
 </div>
 
 <br clear="both">
